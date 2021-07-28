@@ -1,4 +1,4 @@
-package org.collegeboard.apfym.helpers;
+package helpers;
 
 public class PaginationHelper
 {
